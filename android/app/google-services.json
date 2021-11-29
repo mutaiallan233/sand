@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551117651829",
+    "project_id": "sand-10dad",
+    "storage_bucket": "sand-10dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551117651829:android:bc3f5bbf7ddf125af89d3c",
+        "android_client_info": {
+          "package_name": "com.example.sand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551117651829-g2eqi2vdn4r4u5utl5o3tk0qptms0qvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCbWalvnqMbLyECVZ_ZrQqIfs_DHJXmBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551117651829-g2eqi2vdn4r4u5utl5o3tk0qptms0qvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
